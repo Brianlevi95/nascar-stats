@@ -1,0 +1,223 @@
+{
+  "season": 2026,
+  "checkedAt": "2026-10-06",
+  "source": "https://www.nascar.com/nascar-cup-series/2026/schedule/",
+  "races": [
+    {
+      "date": "2026-02-15",
+      "track": "Daytona",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-02-22",
+      "track": "Atlanta (EchoPark)",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-03-01",
+      "track": "COTA",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-03-08",
+      "track": "Phoenix",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-03-15",
+      "track": "Las Vegas",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-03-22",
+      "track": "Darlington",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-03-29",
+      "track": "Martinsville",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-04-12",
+      "track": "Bristol",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-04-19",
+      "track": "Kansas",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-04-26",
+      "track": "Talladega",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-05-03",
+      "track": "Texas",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-05-10",
+      "track": "Watkins Glen",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-05-24",
+      "track": "Charlotte",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-05-31",
+      "track": "Nashville",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-06-07",
+      "track": "Michigan",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-06-14",
+      "track": "Pocono",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-06-21",
+      "track": "San Diego",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-06-28",
+      "track": "Sonoma",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-07-05",
+      "track": "Chicagoland",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-07-12",
+      "track": "Atlanta (EchoPark)",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-07-19",
+      "track": "North Wilkesboro",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-07-26",
+      "track": "Indianapolis",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-08-09",
+      "track": "Iowa",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-08-15",
+      "track": "Richmond",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-08-23",
+      "track": "New Hampshire",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-08-29",
+      "track": "Daytona",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-09-06",
+      "track": "Darlington",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-09-13",
+      "track": "Gateway (WWT)",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-09-19",
+      "track": "Bristol",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-09-27",
+      "track": "Kansas",
+      "time": "",
+      "tv": ""
+    },
+    {
+      "date": "2026-10-04",
+      "track": "Las Vegas",
+      "time": "5:30 PM ET",
+      "tv": "USA"
+    },
+    {
+      "date": "2026-10-11",
+      "track": "Charlotte",
+      "time": "3:00 PM ET",
+      "tv": "USA"
+    },
+    {
+      "date": "2026-10-18",
+      "track": "Phoenix",
+      "time": "3:00 PM ET",
+      "tv": "USA"
+    },
+    {
+      "date": "2026-10-25",
+      "track": "Talladega",
+      "time": "2:00 PM ET",
+      "tv": "NBC"
+    },
+    {
+      "date": "2026-11-01",
+      "track": "Martinsville",
+      "time": "2:00 PM ET",
+      "tv": "NBC"
+    },
+    {
+      "date": "2026-11-08",
+      "track": "Homestead-Miami",
+      "time": "3:00 PM ET",
+      "tv": "NBC"
+    }
+  ]
+}
