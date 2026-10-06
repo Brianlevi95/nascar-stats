@@ -1,6 +1,6 @@
 import {esc,safeLink,json,table,today,centralTime,centralStamp} from './family-utils.js?v=20261006ct';
 import {dadHTML,loadLineup} from './dad.js?v=20261006photo';
-import {mountWeather,cancelWeather} from './weather.js?v=20261006ct';
+import {mountWeather,cancelWeather} from './weather.js?v=20261006radar';
 const $=id=>document.getElementById(id);
 let active='',request=0,statsPromise;
 function brief(r){return r?`<article class="family-panel"><p class="eyebrow">NEXT CUP RACE</p><h3>${esc(r.track)}</h3><p>${esc(r.date)} · ${esc(centralTime(r.time)||'Time to be confirmed')} · ${esc(r.tv||'TV to be confirmed')}</p></article>`:'<p>No upcoming race is listed. The next season’s schedule needs to be added.</p>';}
