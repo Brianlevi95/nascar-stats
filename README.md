@@ -38,3 +38,7 @@ Run `npm run preview`, then open http://127.0.0.1:4173. Run `npm test` for data 
 ## Data provenance
 
 Initial snapshot: the user's latest Stats Manager v0.5 `v_analysis.csv` export, generated October 6, 2026. The export includes DriverAverages source URLs. The website displays that local snapshot and does not scrape sources or claim results are live. Independent fan project, not affiliated with NASCAR.
+
+## Display time zone
+
+All website times use US Central (America/Chicago), with daylight saving applied. NASCAR source schedule and qualifying strings may remain ET in data; the display converts them to CT. Weather queries explicitly request America/Chicago for hourly, daily, sunrise/sunset and archive dates, including searches for other locations. Update timestamps with a time are formatted in Central. Date-only update stamps remain dates.
