@@ -1,4 +1,4 @@
-import {esc,table,json,centralStamp} from './family-utils.js';
+import {esc,table,json,centralStamp} from './family-utils.js?v=20261006ct';
 export const condition=c=>c==null?'—':c===0?'Clear':c<=3?'Partly cloudy / overcast':c<=48?'Fog':c<=67?'Rain / drizzle':c<=77?'Snow':c<=82?'Rain showers':c<=86?'Snow showers':'Thunderstorms';
 const value=(n,unit='',digits=0)=>n==null?'—':Number(n).toFixed(digits)+unit;
 let serial=0;

@@ -1,5 +1,5 @@
 import {summary} from './stats.js';
-import {esc,table,json,safeLink,centralTime,centralStamp} from './family-utils.js';
+import {esc,table,json,safeLink,centralTime,centralStamp} from './family-utils.js?v=20261006ct';
 export function driverBriefing(rows,names,season,track,raceDate){const before=rows.filter(r=>r.race_date<raceDate);return names.map(name=>({name,season:summary(before.filter(r=>r.driver===name&&r.season===season)),track:summary(before.filter(r=>r.driver===name&&r.track===track))}));}
 export function currentLineup(data,race){return !!race&&data.raceDate===race.date&&data.track===race.track&&data.rows.length>0;}
 const fmt=x=>x==null?'—':Number.isInteger(x)?x:x.toFixed(2);
