@@ -1,0 +1,5 @@
+import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {summary,compare,average} from '../stats.js';import {convert,parseCSV} from './export-data.mjs';
+test('Shared races exclude unmatched starts',()=>{const rows=[{driver_key:'a',race_key:'1',finish:2},{driver_key:'b',race_key:'1',finish:3},{driver_key:'a',race_key:'2',finish:1}];const c=compare(rows,'a','b');assert.equal(c.pairs.length,1);assert.equal(c.a,1);assert.equal(summary(c.pairs.map(p=>p[0])).wins,0);});
+test('Missing values do not become zero in averages',()=>assert.equal(average([{x:null},{x:10},{x:20}],'x'),15));
+test('CSV preserves quoted commas, quotes and line breaks',()=>assert.equal(parseCSV('a,b\n1,"a,b"\n2,"a""b\nc"')[1].b,'a"b\nc'));
+test('Published dataset has unique race/driver rows and valid finishers',()=>{const d=JSON.parse(fs.readFileSync(new URL('../data/stats.json',import.meta.url)));assert.ok(d.rows.length>0);assert.equal(new Set(d.rows.map(r=>r.race_key+'|'+r.driver_key)).size,d.rows.length);assert.equal(new Set(d.rows.map(r=>r.race_key)).size,d.raceCount);assert.ok(d.rows.every(r=>r.finish>=1&&r.season>=2022));});

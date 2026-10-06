@@ -1,0 +1,1 @@
+{"name":"nascar-stats","private":true,"type":"module","scripts":{"test":"node --test scripts/stats.test.mjs","export":"node scripts/export-data.mjs","preview":"node scripts/serve.mjs"}}
