@@ -1,0 +1,7 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {driverBriefing,currentLineup} from '../dad.js';
+import {condition} from '../weather.js';
+test('Dad briefing excludes the upcoming race and keeps Charlotte layouts separate',()=>{const rows=[{driver:'Ryan Blaney',season:2026,track:'Charlotte',race_date:'2026-05-24',finish:1,laps_led:5},{driver:'Ryan Blaney',season:2025,track:'Charlotte Roval',race_date:'2025-10-05',finish:3},{driver:'Ryan Blaney',season:2026,track:'Charlotte',race_date:'2026-10-11',finish:10}];const b=driverBriefing(rows,['Ryan Blaney','Todd Gilliland'],2026,'Charlotte','2026-10-11');assert.equal(b[0].season.starts,1);assert.equal(b[0].track.starts,1);assert.equal(b[0].track.avg,1);assert.equal(b[1].season.avg,null);});
+test('Qualifying grid is withheld if race date or layout differs',()=>{const q={raceDate:'2026-10-11',track:'Charlotte',rows:[{start:1}]};assert.equal(currentLineup(q,{date:'2026-10-11',track:'Charlotte'}),true);assert.equal(currentLineup(q,{date:'2026-10-18',track:'Charlotte'}),false);assert.equal(currentLineup(q,{date:'2026-10-11',track:'Charlotte Roval'}),false);assert.equal(currentLineup({...q,rows:[]},{date:'2026-10-11',track:'Charlotte'}),false);});
+test('Missing weather conditions do not appear as clear skies',()=>{assert.equal(condition(null),'—');assert.equal(condition(0),'Clear');assert.equal(condition(95),'Thunderstorms');});

@@ -2,15 +2,21 @@
 
 ## Family sections
 
-**Fantasy League:** refreshes the hosted standings snapshot when visitors click Refresh league stats. Import a CSV containing `name,points,lastRacePoints` with `node scripts/import-fantasy.mjs standings.csv`, then publish `data/family.json`. Automatic external league syncing needs a confirmed provider and its API/export access; this initial version does not claim a live league connection. Set `fantasy.sourceUrl` to the league page for a direct link. Standings published here are visible to all visitors.
+**Fantasy League:** Larcom League standings are a dated snapshot of the seven visible teams, with a direct link to the live league. The reload button refreshes published site data. Import a CSV containing `name,points,lastRacePoints` with `node scripts/import-fantasy.mjs standings.csv`, then publish `data/family.json`. No authenticated fantasy API integration is claimed; never commit session cookies or credentials.
 
-**Dad’s Corner:** edit `dad.title`, `dad.message`, `dad.favoriteDrivers` (exact driver names), and `dad.links` (objects with title/url) in `data/family.json`. Set `dad.updatedAt` when changing his briefing. Publish that file to update the tab. Notes support plain text and line breaks; HTML is escaped. This is a public personalized tab, not a password-protected area.
+**Dad’s Corner:** Ryan Blaney, Denny Hamlin, Joey Logano, Chase Briscoe, and Todd Gilliland have season-to-date summaries and next-track history computed from the existing export. The race date and exact track layout define the briefing. The export cutoff is always visible. Edit favorites, title, and plain-text note in `data/family.json`; publish it to update his page. This is a public personalized tab.
 
 **Schedule:** `data/schedule.json` holds the 2026 Cup points-race dates from the local export, plus the remaining six races and start times/TV from NASCAR’s official February 10 schedule PDF, checked October 6, 2026. Historical start times are not yet populated. Exhibition events are not included. Update this file when NASCAR changes the schedule; times are Eastern Time and the official schedule link is always available.
 
-**Weather:** users search a city or ZIP, select the matching location, and view seven days of highs/lows and precipitation chances from Open-Meteo. Set `weather.defaultLocation` in `data/family.json` for a suggested home location. No GPS permission or API key is needed. Requests send the search text/selected coordinates to Open-Meteo only when requested. Free service is for noncommercial use; review licensing if monetizing the site. Provider outages display an error rather than stale or invented forecasts.
+**Weather:** opens automatically for ZIP 62221, using an approximate Belleville-area location (38.51, -89.90). Visitors can search other cities. Current conditions, seven-day daily outlook, and hourly day selectors include temperature, feels-like, humidity, precipitation, wind/gusts and direction. Historical reanalysis from Open-Meteo has daily and hourly tables and a 31-day maximum range, from 1940 through one week ago; it is clearly labeled as model estimates incorporating observations, not direct station measurements. Each request sends coordinates to Open-Meteo; city searches send the entered search text. No key or GPS permission is used. Review Open-Meteo licensing if monetizing.
 
 Static, public NASCAR Cup Series explorer using the cleaned Stats Manager `v_analysis` export. No server, account, or database is required by visitors. Driver Lookup, Track Lookup, shared-race Head-to-Head, sortable leaderboards, season/track/type filters, and recent race finishing orders are included. Coverage is shown from the dataset, not inferred from today's date. Missing ratings are excluded from averages. Comparisons use only shared race starts.
+
+## Qualifying updates
+
+`data/qualifying.json` is race-scoped. Match `raceDate` and `track` to the schedule; include `updatedAt`, `status`, `sourceUrl`, and `rows` with `start,qualifyingPosition,car,driver,lapSeconds,speedMph`. Unknown lap times/speeds are null. Publish the complete verified field, distinguishing qualifying position from the starting grid and recording any penalties. The UI refuses a grid for a different date/layout. Never substitute qualifying order for results.
+
+A Codex heartbeat named “Dad’s weekly NASCAR briefing” checks every six hours near race weekends, verifies official sources, and publishes verified qualifying snapshots and post-race fantasy standings. This runs locally through Codex and requires the app/host and connected account access to be available. It is not a GitHub-hosted live feed. Future runs cannot be guaranteed if the host is off or a source/login is unavailable. Normal website weather works independently in each visitor’s browser.
 
 ## Update after a race
 
