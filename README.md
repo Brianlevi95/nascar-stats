@@ -42,3 +42,11 @@ Initial snapshot: the user's latest Stats Manager v0.5 `v_analysis.csv` export, 
 ## Display time zone
 
 All website times use US Central (America/Chicago), with daylight saving applied. NASCAR source schedule and qualifying strings may remain ET in data; the display converts them to CT. Weather queries explicitly request America/Chicago for hourly, daily, sunrise/sunset and archive dates, including searches for other locations. Update timestamps with a time are formatted in Central. Date-only update stamps remain dates.
+
+## Football (NFL)
+
+The **Football** tab is a lightweight live NFL viewer for the family: this week's games, recent final scores, previous/next week controls, and standings for all eight divisions (W-L-T and winning percentage). Kickoff times are converted from the feed's UTC timestamps into **America/Chicago** (CST/CDT), including daylight saving transitions. The football tab is independent of the local NASCAR export.
+
+It retrieves data directly from ESPN's *unofficial* public JSON endpoints in the browser: `.../apis/site/v2/sports/football/nfl/scoreboard` and `.../apis/v2/sports/football/nfl/standings`. No API key or server is required. It updates on opening the tab, switching schedule weeks, or pressing **Refresh**. If ESPN's undocumented endpoints or browser cross-origin policy change, the page shows a failure message and links to ESPN. It is not a guaranteed realtime sports feed. Records are sorted by winning percentage without applying the NFL's complex official tiebreakers.
+
+The parser and Central Time tests live in `scripts/football.test.mjs`.
