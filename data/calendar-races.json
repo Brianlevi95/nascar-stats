@@ -1,0 +1,786 @@
+{
+  "season": 2026,
+  "checkedAt": "2026-10-06",
+  "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf",
+  "note": "Scheduled start times; subject to change. Includes Cup exhibition events. Off weeks omitted.",
+  "races": [
+    {
+      "id": "cup-2026-02-01",
+      "series": "cup",
+      "track": "Clash (Bowman Gray)",
+      "startAt": "2026-02-02T01:00:00.000Z",
+      "tv": "FOX",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-02-12",
+      "series": "cup",
+      "track": "Duels (Daytona)",
+      "startAt": "2026-02-13T00:00:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-02-13",
+      "series": "trucks",
+      "track": "Daytona",
+      "startAt": "2026-02-14T00:30:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-02-14",
+      "series": "oreilly",
+      "track": "Daytona",
+      "startAt": "2026-02-14T22:00:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-02-15",
+      "series": "cup",
+      "track": "Daytona 500",
+      "startAt": "2026-02-15T19:30:00.000Z",
+      "tv": "FOX",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-02-21",
+      "series": "trucks",
+      "track": "EchoPark (Atlanta)",
+      "startAt": "2026-02-21T18:30:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-02-21",
+      "series": "oreilly",
+      "track": "EchoPark (Atlanta)",
+      "startAt": "2026-02-21T22:00:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-02-22",
+      "series": "cup",
+      "track": "EchoPark (Atlanta)",
+      "startAt": "2026-02-22T20:00:00.000Z",
+      "tv": "FOX",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-02-28",
+      "series": "trucks",
+      "track": "St. Petersburg",
+      "startAt": "2026-02-28T17:00:00.000Z",
+      "tv": "FOX",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-02-28",
+      "series": "oreilly",
+      "track": "COTA (Austin)",
+      "startAt": "2026-02-28T20:00:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-03-01",
+      "series": "cup",
+      "track": "COTA (Austin)",
+      "startAt": "2026-03-01T20:30:00.000Z",
+      "tv": "FOX",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-03-07",
+      "series": "oreilly",
+      "track": "Phoenix",
+      "startAt": "2026-03-08T00:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-03-08",
+      "series": "cup",
+      "track": "Phoenix",
+      "startAt": "2026-03-08T19:30:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-03-14",
+      "series": "oreilly",
+      "track": "Las Vegas",
+      "startAt": "2026-03-14T21:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-03-15",
+      "series": "cup",
+      "track": "Las Vegas",
+      "startAt": "2026-03-15T20:00:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-03-20",
+      "series": "trucks",
+      "track": "Darlington",
+      "startAt": "2026-03-20T23:30:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-03-21",
+      "series": "oreilly",
+      "track": "Darlington",
+      "startAt": "2026-03-21T21:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-03-22",
+      "series": "cup",
+      "track": "Darlington",
+      "startAt": "2026-03-22T19:00:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-03-28",
+      "series": "oreilly",
+      "track": "Martinsville",
+      "startAt": "2026-03-28T19:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-03-29",
+      "series": "cup",
+      "track": "Martinsville",
+      "startAt": "2026-03-29T19:30:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-04-03",
+      "series": "trucks",
+      "track": "Rockingham",
+      "startAt": "2026-04-03T20:30:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-04-04",
+      "series": "oreilly",
+      "track": "Rockingham",
+      "startAt": "2026-04-04T18:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-04-10",
+      "series": "trucks",
+      "track": "Bristol",
+      "startAt": "2026-04-10T23:30:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-04-11",
+      "series": "oreilly",
+      "track": "Bristol",
+      "startAt": "2026-04-11T23:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-04-12",
+      "series": "cup",
+      "track": "Bristol",
+      "startAt": "2026-04-12T19:00:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-04-18",
+      "series": "oreilly",
+      "track": "Kansas",
+      "startAt": "2026-04-18T23:00:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-04-19",
+      "series": "cup",
+      "track": "Kansas",
+      "startAt": "2026-04-19T18:00:00.000Z",
+      "tv": "FOX",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-04-25",
+      "series": "oreilly",
+      "track": "Talladega",
+      "startAt": "2026-04-25T20:00:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-04-26",
+      "series": "cup",
+      "track": "Talladega",
+      "startAt": "2026-04-26T19:00:00.000Z",
+      "tv": "FOX",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-05-01",
+      "series": "trucks",
+      "track": "Texas",
+      "startAt": "2026-05-02T00:00:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-05-02",
+      "series": "oreilly",
+      "track": "Texas",
+      "startAt": "2026-05-02T19:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-05-03",
+      "series": "cup",
+      "track": "Texas",
+      "startAt": "2026-05-03T19:30:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-05-08",
+      "series": "trucks",
+      "track": "Watkins Glen",
+      "startAt": "2026-05-08T20:30:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-05-09",
+      "series": "oreilly",
+      "track": "Watkins Glen",
+      "startAt": "2026-05-09T20:00:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-05-10",
+      "series": "cup",
+      "track": "Watkins Glen",
+      "startAt": "2026-05-10T19:00:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-05-15",
+      "series": "trucks",
+      "track": "Dover",
+      "startAt": "2026-05-15T21:00:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-05-16",
+      "series": "oreilly",
+      "track": "Dover",
+      "startAt": "2026-05-16T20:00:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-05-17",
+      "series": "cup",
+      "track": "All-Star Dover",
+      "startAt": "2026-05-17T19:00:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-05-22",
+      "series": "trucks",
+      "track": "Charlotte",
+      "startAt": "2026-05-22T23:30:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-05-23",
+      "series": "oreilly",
+      "track": "Charlotte",
+      "startAt": "2026-05-23T21:00:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-05-24",
+      "series": "cup",
+      "track": "Charlotte",
+      "startAt": "2026-05-24T22:00:00.000Z",
+      "tv": "PRIME",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-05-29",
+      "series": "trucks",
+      "track": "Nashville",
+      "startAt": "2026-05-30T00:00:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-05-30",
+      "series": "oreilly",
+      "track": "Nashville",
+      "startAt": "2026-05-30T23:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-05-31",
+      "series": "cup",
+      "track": "Nashville",
+      "startAt": "2026-05-31T23:00:00.000Z",
+      "tv": "PRIME",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-06-06",
+      "series": "trucks",
+      "track": "Michigan",
+      "startAt": "2026-06-06T17:30:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-06-07",
+      "series": "cup",
+      "track": "Michigan",
+      "startAt": "2026-06-07T19:00:00.000Z",
+      "tv": "PRIME",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-06-13",
+      "series": "oreilly",
+      "track": "Pocono",
+      "startAt": "2026-06-13T20:00:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-06-14",
+      "series": "cup",
+      "track": "Pocono",
+      "startAt": "2026-06-14T19:00:00.000Z",
+      "tv": "PRIME",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-06-19",
+      "series": "trucks",
+      "track": "San Diego",
+      "startAt": "2026-06-19T23:00:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-06-20",
+      "series": "oreilly",
+      "track": "San Diego",
+      "startAt": "2026-06-20T21:00:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-06-21",
+      "series": "cup",
+      "track": "San Diego",
+      "startAt": "2026-06-21T20:00:00.000Z",
+      "tv": "PRIME",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-06-27",
+      "series": "oreilly",
+      "track": "Sonoma",
+      "startAt": "2026-06-27T21:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-06-28",
+      "series": "cup",
+      "track": "Sonoma",
+      "startAt": "2026-06-28T19:30:00.000Z",
+      "tv": "TNT",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-07-04",
+      "series": "oreilly",
+      "track": "Chicagoland",
+      "startAt": "2026-07-04T21:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-07-05",
+      "series": "cup",
+      "track": "Chicagoland",
+      "startAt": "2026-07-05T22:00:00.000Z",
+      "tv": "TNT",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-07-11",
+      "series": "trucks",
+      "track": "Lime Rock Park",
+      "startAt": "2026-07-11T17:00:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-07-11",
+      "series": "oreilly",
+      "track": "EchoPark (Atlanta)",
+      "startAt": "2026-07-11T23:00:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-07-12",
+      "series": "cup",
+      "track": "EchoPark (Atlanta)",
+      "startAt": "2026-07-12T23:00:00.000Z",
+      "tv": "TNT",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-07-18",
+      "series": "trucks",
+      "track": "North Wilkesboro",
+      "startAt": "2026-07-18T16:30:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-07-19",
+      "series": "cup",
+      "track": "North Wilkesboro",
+      "startAt": "2026-07-19T23:00:00.000Z",
+      "tv": "TNT",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-07-24",
+      "series": "trucks",
+      "track": "Lucas Oil",
+      "startAt": "2026-07-25T00:00:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-07-25",
+      "series": "oreilly",
+      "track": "Indianapolis",
+      "startAt": "2026-07-25T20:00:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-07-26",
+      "series": "cup",
+      "track": "Indianapolis",
+      "startAt": "2026-07-26T18:00:00.000Z",
+      "tv": "TNT",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-08-08",
+      "series": "oreilly",
+      "track": "Iowa",
+      "startAt": "2026-08-08T21:00:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-08-09",
+      "series": "cup",
+      "track": "Iowa",
+      "startAt": "2026-08-09T19:30:00.000Z",
+      "tv": "USA",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-08-14",
+      "series": "trucks",
+      "track": "Richmond",
+      "startAt": "2026-08-14T23:30:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-08-15",
+      "series": "cup",
+      "track": "Richmond",
+      "startAt": "2026-08-15T23:00:00.000Z",
+      "tv": "USA",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-08-22",
+      "series": "trucks",
+      "track": "New Hampshire",
+      "startAt": "2026-08-22T17:30:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-08-23",
+      "series": "cup",
+      "track": "New Hampshire",
+      "startAt": "2026-08-23T19:00:00.000Z",
+      "tv": "USA",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-08-28",
+      "series": "oreilly",
+      "track": "Daytona",
+      "startAt": "2026-08-28T23:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-08-29",
+      "series": "cup",
+      "track": "Daytona",
+      "startAt": "2026-08-29T23:30:00.000Z",
+      "tv": "NBC",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-09-05",
+      "series": "oreilly",
+      "track": "Darlington",
+      "startAt": "2026-09-05T23:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-09-06",
+      "series": "cup",
+      "track": "Darlington",
+      "startAt": "2026-09-06T21:00:00.000Z",
+      "tv": "USA",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-09-12",
+      "series": "oreilly",
+      "track": "WWTR (St. Louis)",
+      "startAt": "2026-09-12T23:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-09-13",
+      "series": "cup",
+      "track": "WWTR (St. Louis)",
+      "startAt": "2026-09-13T19:00:00.000Z",
+      "tv": "USA",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-09-17",
+      "series": "trucks",
+      "track": "Bristol",
+      "startAt": "2026-09-18T00:00:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-09-18",
+      "series": "oreilly",
+      "track": "Bristol",
+      "startAt": "2026-09-18T23:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-09-19",
+      "series": "cup",
+      "track": "Bristol",
+      "startAt": "2026-09-19T23:30:00.000Z",
+      "tv": "USA",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-09-26",
+      "series": "trucks",
+      "track": "Kansas",
+      "startAt": "2026-09-26T17:00:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-09-27",
+      "series": "cup",
+      "track": "Kansas",
+      "startAt": "2026-09-27T19:00:00.000Z",
+      "tv": "USA",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-10-03",
+      "series": "oreilly",
+      "track": "Las Vegas",
+      "startAt": "2026-10-03T23:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-10-04",
+      "series": "cup",
+      "track": "Las Vegas",
+      "startAt": "2026-10-04T21:30:00.000Z",
+      "tv": "USA",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-10-09",
+      "series": "trucks",
+      "track": "Charlotte",
+      "startAt": "2026-10-09T21:00:00.000Z",
+      "tv": "FOX",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-10-10",
+      "series": "oreilly",
+      "track": "Charlotte",
+      "startAt": "2026-10-10T20:00:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-10-11",
+      "series": "cup",
+      "track": "Charlotte",
+      "startAt": "2026-10-11T19:00:00.000Z",
+      "tv": "USA",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-10-16",
+      "series": "trucks",
+      "track": "Phoenix",
+      "startAt": "2026-10-16T23:30:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-10-17",
+      "series": "oreilly",
+      "track": "Phoenix",
+      "startAt": "2026-10-17T23:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-10-18",
+      "series": "cup",
+      "track": "Phoenix",
+      "startAt": "2026-10-18T19:00:00.000Z",
+      "tv": "USA",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-10-23",
+      "series": "trucks",
+      "track": "Talladega",
+      "startAt": "2026-10-23T20:00:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-10-24",
+      "series": "oreilly",
+      "track": "Talladega",
+      "startAt": "2026-10-24T19:30:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-10-25",
+      "series": "cup",
+      "track": "Talladega",
+      "startAt": "2026-10-25T18:00:00.000Z",
+      "tv": "NBC",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-10-30",
+      "series": "trucks",
+      "track": "Martinsville",
+      "startAt": "2026-10-30T22:00:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-10-31",
+      "series": "oreilly",
+      "track": "Martinsville",
+      "startAt": "2026-10-31T20:00:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-11-01",
+      "series": "cup",
+      "track": "Martinsville",
+      "startAt": "2026-11-01T19:00:00.000Z",
+      "tv": "NBC",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "trucks-2026-11-06",
+      "series": "trucks",
+      "track": "Homestead-Miami",
+      "startAt": "2026-11-07T00:30:00.000Z",
+      "tv": "FS1",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "oreilly-2026-11-07",
+      "series": "oreilly",
+      "track": "Homestead-Miami",
+      "startAt": "2026-11-07T22:00:00.000Z",
+      "tv": "CW",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2026-11-08",
+      "series": "cup",
+      "track": "Homestead-Miami",
+      "startAt": "2026-11-08T20:00:00.000Z",
+      "tv": "NBC",
+      "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    }
+  ],
+  "upcomingCheckedAt": "2026-10-20",
+  "upcomingSourceUrl": "https://www.nascar.com/weekend-schedule/weekend-schedule-for-2026-talladega-superspeedway-chase-race/"
+}

@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-10-07",
+  "races": {
+    "cup-2026-10-11": {
+      "stageEnds": [80,165,267],
+      "stageSource": "https://www.jayski.com/wp-content/uploads/sites/31/2026/2/6/2026-RACETRACK-SPECIFICATIONS-NCS_REVB.pdf",
+      "tires": {"raceNew":8,"qualifyingCarryover":1,"weekendTotal":11,"practice":2},
+      "tireSource": "https://www.nascar.com/news-media/2026/10/06/charlotte-motor-speedway-goodyear-racing-chase-preview/",
+      "fuelRun": null
+    },
+    "oreilly-2026-10-10": {
+      "stageEnds": [45,90,200],
+      "stageSource": "https://www.nascar.com/charlotte-motor-speedway-oreilly-october-2026/",
+      "tires": {"raceNew":4,"qualifyingCarryover":1,"weekendTotal":6,"practice":1},
+      "tireSource": "https://www.nascar.com/news-media/2026/10/06/charlotte-motor-speedway-goodyear-racing-chase-preview/",
+      "fuelRun": null
+    },
+    "trucks-2026-10-09": {
+      "stageEnds": [30,60,134],
+      "stageStatus": "tentative",
+      "stageSource": "https://www.jayski.com/wp-content/uploads/sites/31/2026/3/6/CHARLOTTE-MOTOR-SPEEDWAY_NCS_NOAPS_NCTS-EventSchedule_10_11_2026-created-3-3-2026.pdf",
+      "tires": {"raceNew":3,"qualifyingCarryover":1,"weekendTotal":5,"practice":1},
+      "tireSource": "https://www.nascar.com/news-media/2026/10/06/charlotte-motor-speedway-goodyear-racing-chase-preview/",
+      "fuelRun": null
+    },
+    "cup-2026-10-18": {"stageEnds":[60,185,312],"stageSource":"https://www.jayski.com/wp-content/uploads/sites/31/2026/2/6/2026-RACETRACK-SPECIFICATIONS-NCS_REVB.pdf"},
+    "cup-2026-10-25": {"stageEnds":[98,143,188],"stageSource":"https://www.nascar.com/news-media/2026/10/01/nascar-announces-changes-to-talladega-rules-package/"},
+    "cup-2026-11-01": {"stageEnds":[130,260,500],"stageSource":"https://www.jayski.com/wp-content/uploads/sites/31/2026/2/6/2026-RACETRACK-SPECIFICATIONS-NCS_REVB.pdf"},
+    "cup-2026-11-08": {"stageEnds":[80,165,267],"stageSource":"https://www.jayski.com/wp-content/uploads/sites/31/2026/2/6/2026-RACETRACK-SPECIFICATIONS-NCS_REVB.pdf"}
+  }
+}
+
