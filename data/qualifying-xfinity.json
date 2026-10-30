@@ -1,1 +1,320 @@
-{"raceDate":null,"track":null,"updatedAt":null,"sourceUrl":"https://www.nascar.com/schedule/","status":"Awaiting a verified published lineup for this series.","rows":[]}
+{
+  "raceDate": "2026-10-31",
+  "track": "Martinsville",
+  "updatedAt": "2026-10-30T23:13:54.784Z",
+  "sourceUrl": "https://www.jayski.com/wp-content/uploads/sites/31/2026/10/30/32-noaps-2026-lineup.pdf",
+  "qualifyingSourceUrl": "https://www.jayski.com/wp-content/uploads/sites/31/2026/10/30/32-noaps-2026-qual-results.pdf",
+  "status": "Official NASCAR Statistics starting lineup published October 30 at 5:14 PM Eastern (4:14 PM Central). Qualifying complete; single round, best of two laps. Starting positions 33–38 are owner-points provisionals; their lap times and speeds come from the separate time-trial report. No penalty changes are listed in these reports. Subject to subsequent NASCAR updates.",
+  "rows": [
+    {
+      "start": 1,
+      "qualifyingPosition": 1,
+      "car": "1",
+      "driver": "Carson Kvapil",
+      "lapSeconds": 19.855,
+      "speedMph": 95.371
+    },
+    {
+      "start": 2,
+      "qualifyingPosition": 2,
+      "car": "88",
+      "driver": "Rajah Caruth",
+      "lapSeconds": 19.903,
+      "speedMph": 95.141
+    },
+    {
+      "start": 3,
+      "qualifyingPosition": 3,
+      "car": "7",
+      "driver": "Justin Allgaier",
+      "lapSeconds": 19.941,
+      "speedMph": 94.96
+    },
+    {
+      "start": 4,
+      "qualifyingPosition": 4,
+      "car": "99",
+      "driver": "Parker Retzlaff",
+      "lapSeconds": 19.941,
+      "speedMph": 94.96
+    },
+    {
+      "start": 5,
+      "qualifyingPosition": 5,
+      "car": "18",
+      "driver": "William Sawalich",
+      "lapSeconds": 19.961,
+      "speedMph": 94.865
+    },
+    {
+      "start": 6,
+      "qualifyingPosition": 6,
+      "car": "8",
+      "driver": "Sammy Smith",
+      "lapSeconds": 20.017,
+      "speedMph": 94.6
+    },
+    {
+      "start": 7,
+      "qualifyingPosition": 7,
+      "car": "00",
+      "driver": "Sheldon Creed",
+      "lapSeconds": 20.03,
+      "speedMph": 94.538
+    },
+    {
+      "start": 8,
+      "qualifyingPosition": 8,
+      "car": "2",
+      "driver": "Jesse Love",
+      "lapSeconds": 20.036,
+      "speedMph": 94.51
+    },
+    {
+      "start": 9,
+      "qualifyingPosition": 9,
+      "car": "17",
+      "driver": "Corey Day",
+      "lapSeconds": 20.046,
+      "speedMph": 94.463
+    },
+    {
+      "start": 10,
+      "qualifyingPosition": 10,
+      "car": "54",
+      "driver": "Taylor Gray",
+      "lapSeconds": 20.055,
+      "speedMph": 94.42
+    },
+    {
+      "start": 11,
+      "qualifyingPosition": 11,
+      "car": "96",
+      "driver": "Anthony Alfredo",
+      "lapSeconds": 20.061,
+      "speedMph": 94.392
+    },
+    {
+      "start": 12,
+      "qualifyingPosition": 12,
+      "car": "20",
+      "driver": "Brandon Jones",
+      "lapSeconds": 20.076,
+      "speedMph": 94.322
+    },
+    {
+      "start": 13,
+      "qualifyingPosition": 13,
+      "car": "19",
+      "driver": "Brent Crews",
+      "lapSeconds": 20.121,
+      "speedMph": 94.111
+    },
+    {
+      "start": 14,
+      "qualifyingPosition": 14,
+      "car": "41",
+      "driver": "Sam Mayer",
+      "lapSeconds": 20.122,
+      "speedMph": 94.106
+    },
+    {
+      "start": 15,
+      "qualifyingPosition": 15,
+      "car": "26",
+      "driver": "Dean Thompson",
+      "lapSeconds": 20.15,
+      "speedMph": 93.975
+    },
+    {
+      "start": 16,
+      "qualifyingPosition": 16,
+      "car": "31",
+      "driver": "Blaine Perkins",
+      "lapSeconds": 20.212,
+      "speedMph": 93.687
+    },
+    {
+      "start": 17,
+      "qualifyingPosition": 17,
+      "car": "24",
+      "driver": "Harrison Burton",
+      "lapSeconds": 20.232,
+      "speedMph": 93.594
+    },
+    {
+      "start": 18,
+      "qualifyingPosition": 18,
+      "car": "27",
+      "driver": "Jeb Burton",
+      "lapSeconds": 20.233,
+      "speedMph": 93.59
+    },
+    {
+      "start": 19,
+      "qualifyingPosition": 19,
+      "car": "39",
+      "driver": "Ryan Sieg",
+      "lapSeconds": 20.253,
+      "speedMph": 93.497
+    },
+    {
+      "start": 20,
+      "qualifyingPosition": 20,
+      "car": "51",
+      "driver": "Jeremy Clements",
+      "lapSeconds": 20.253,
+      "speedMph": 93.497
+    },
+    {
+      "start": 21,
+      "qualifyingPosition": 21,
+      "car": "21",
+      "driver": "Austin Hill",
+      "lapSeconds": 20.275,
+      "speedMph": 93.396
+    },
+    {
+      "start": 22,
+      "qualifyingPosition": 22,
+      "car": "28",
+      "driver": "Kyle Sieg",
+      "lapSeconds": 20.351,
+      "speedMph": 93.047
+    },
+    {
+      "start": 23,
+      "qualifyingPosition": 23,
+      "car": "92",
+      "driver": "Alex Labbe",
+      "lapSeconds": 20.356,
+      "speedMph": 93.024
+    },
+    {
+      "start": 24,
+      "qualifyingPosition": 24,
+      "car": "38",
+      "driver": "Patrick Emerling",
+      "lapSeconds": 20.426,
+      "speedMph": 92.705
+    },
+    {
+      "start": 25,
+      "qualifyingPosition": 25,
+      "car": "44",
+      "driver": "Brennan Poole",
+      "lapSeconds": 20.441,
+      "speedMph": 92.637
+    },
+    {
+      "start": 26,
+      "qualifyingPosition": 26,
+      "car": "48",
+      "driver": "Patrick Staropoli",
+      "lapSeconds": 20.441,
+      "speedMph": 92.637
+    },
+    {
+      "start": 27,
+      "qualifyingPosition": 27,
+      "car": "53",
+      "driver": "Carson Ware",
+      "lapSeconds": 20.445,
+      "speedMph": 92.619
+    },
+    {
+      "start": 28,
+      "qualifyingPosition": 28,
+      "car": "47",
+      "driver": "Dawson Cram",
+      "lapSeconds": 20.448,
+      "speedMph": 92.606
+    },
+    {
+      "start": 29,
+      "qualifyingPosition": 29,
+      "car": "02",
+      "driver": "Ryan Ellis",
+      "lapSeconds": 20.457,
+      "speedMph": 92.565
+    },
+    {
+      "start": 30,
+      "qualifyingPosition": 30,
+      "car": "35",
+      "driver": "Justin Carroll",
+      "lapSeconds": 20.46,
+      "speedMph": 92.551
+    },
+    {
+      "start": 31,
+      "qualifyingPosition": 31,
+      "car": "91",
+      "driver": "Mason Maggio",
+      "lapSeconds": 20.469,
+      "speedMph": 92.511
+    },
+    {
+      "start": 32,
+      "qualifyingPosition": 32,
+      "car": "45",
+      "driver": "Lavar Scott",
+      "lapSeconds": 20.497,
+      "speedMph": 92.384
+    },
+    {
+      "start": 33,
+      "qualifyingPosition": 33,
+      "car": "55",
+      "driver": "Joey Gase",
+      "lapSeconds": 20.513,
+      "speedMph": 92.312,
+      "note": "Owner-points provisional; time from official qualifying results."
+    },
+    {
+      "start": 34,
+      "qualifyingPosition": 34,
+      "car": "32",
+      "driver": "Daniel Dye",
+      "lapSeconds": 20.521,
+      "speedMph": 92.276,
+      "note": "Owner-points provisional; time from official qualifying results."
+    },
+    {
+      "start": 35,
+      "qualifyingPosition": 35,
+      "car": "0",
+      "driver": "Garrett Smithley",
+      "lapSeconds": 20.641,
+      "speedMph": 91.74,
+      "note": "Owner-points provisional; time from official qualifying results."
+    },
+    {
+      "start": 36,
+      "qualifyingPosition": 36,
+      "car": "07",
+      "driver": "Josh Bilicki",
+      "lapSeconds": 20.673,
+      "speedMph": 91.598,
+      "note": "Owner-points provisional; time from official qualifying results."
+    },
+    {
+      "start": 37,
+      "qualifyingPosition": 37,
+      "car": "87",
+      "driver": "Lee Pulliam",
+      "lapSeconds": 20.752,
+      "speedMph": 91.249,
+      "note": "Owner-points provisional; time from official qualifying results."
+    },
+    {
+      "start": 38,
+      "qualifyingPosition": 38,
+      "car": "42",
+      "driver": "Baltazar Leguizamon",
+      "lapSeconds": 21.102,
+      "speedMph": 89.736,
+      "note": "Owner-points provisional; time from official qualifying results."
+    }
+  ]
+}
