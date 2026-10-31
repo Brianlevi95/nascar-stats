@@ -50,3 +50,12 @@ The **Football** tab is a lightweight live NFL viewer for the family: this week'
 It retrieves data directly from ESPN's *unofficial* public JSON endpoints in the browser: `.../apis/site/v2/sports/football/nfl/scoreboard` and `.../apis/v2/sports/football/nfl/standings`. No API key or server is required. It updates on opening the tab, switching schedule weeks, or pressing **Refresh**. If ESPN's undocumented endpoints or browser cross-origin policy change, the page shows a failure message and links to ESPN. It is not a guaranteed realtime sports feed. Records are sorted by winning percentage without applying the NFL's complex official tiebreakers.
 
 The parser and Central Time tests live in `scripts/football.test.mjs`.
+
+
+## Race Lab (advanced NASCAR performance analysis)
+
+Race Lab uses only fields already present in the published Stats Manager race-result exports (Cup, O’Reilly/Xfinity, Trucks since 2022). It adds three data-driven views: a **Race Snapshot** with average-running-position vs finish scatter plot and results table, a **Driver Trends** plot of per-race metrics and an unbiased trailing-five-race average, and **Performance Rankings** with user-selected minimum starts and statistical sorting. Choose series, season and track independently of the existing driver/race lookup tabs.
+
+**Definitions:** "Positions gained" is starting position minus finishing position, *not* on-track passing or pit-road positions. "Finish vs avg running" is race-average running position minus finish, not pit contribution. Average running position is *not* an average lap time or a true green-flag pace number; driver rating is NASCAR's composite rating. Missing values stay missing, not zero. Rolling averages use only the current and earlier races; trends never incorporate later results.
+
+**Future pit/lap analysis:** LivePitData and LiveFeed are documented at https://feed.nascar.com/swagger/ui/index, but the current website export has neither lap-by-lap times nor pit stop duration. Build verified race-id-linked imports and review access/use terms before publishing stop-time or true lap-pace charts. Do not infer pit stop times from position changes. This implementation is original and is not a replica of Bozi's unavailable Replit user interface.

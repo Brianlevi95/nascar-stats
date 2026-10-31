@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {finite,mean,selectRows,racesFor,raceField,raceMetrics,driverAggregates,rankedDrivers,driverTimeline} from '../race-lab-core.js';
+const row=(race_date,driver_key,finish,start,avg_running_pos,result_driver_rating)=>({race_key:race_date,season:2026,race_date,track:'Martinsville',race_name:'Race',driver_key,driver:driver_key,finish,start,avg_running_pos,result_driver_rating,laps_led:5});
+const rows=[row('2026-01-01','A',2,15,5,90),row('2026-01-01','B',1,1,1,100),row('2026-01-08','A',1,8,3,95),row('2026-01-08','B',2,2,null,null),row('2026-01-15','A',5,1,4,70)];
+test('Invalid or missing numeric values are excluded, not replaced by zero',()=>{assert.equal(finite(null),null);assert.equal(mean([null,20,40]),30);assert.equal(mean([null]),null);});
+test('Races are unique and sorted newest first',()=>{assert.equal(racesFor(rows).length,3);assert.equal(racesFor(rows)[0].race_date,'2026-01-15');assert.equal(raceField(rows,'2026-01-01').length,2);});
+test('Season and track filters use existing race fields',()=>{assert.equal(selectRows(rows,{season:2026,track:'Martinsville'}).length,5);assert.equal(selectRows(rows,{track:'Daytona'}).length,0);});
+test('Positions gained and finish vs average have separate definitions',()=>{assert.deepEqual(raceMetrics(rows[0]),{startGain:13,finishVsRunning:3});assert.deepEqual(raceMetrics(rows[3]),{startGain:0,finishVsRunning:null});});
+test('Driver summaries omit absent ratings and apply minimum starts',()=>{const a=driverAggregates(rows,3);assert.equal(a.length,1);assert.equal(a[0].driver,'A');assert.equal(a[0].positions,(13+7-4)/3);assert.equal(driverAggregates(rows,2).find(x=>x.driver==='B').rating,100);});
+test('Ranking sorts rating descending and average finish ascending',()=>{assert.equal(rankedDrivers(rows,2,'rating')[0].driver,'B');assert.equal(rankedDrivers(rows,2,'avgFinish')[0].driver,'B');});
+test('Trailing averages never use later races',()=>{const t=driverTimeline(rows,'A',20);assert.deepEqual(t.map(r=>r.rollingFinish),[2,1.5,8/3]);assert.equal(t[0].rollingRating,90);assert.equal(t[2].rollingRunning,4);});
