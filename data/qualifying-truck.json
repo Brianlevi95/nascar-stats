@@ -1,1 +1,294 @@
-{"raceDate":null,"track":null,"updatedAt":null,"sourceUrl":"https://www.nascar.com/schedule/","status":"Awaiting a verified published lineup for this series.","rows":[]}
+{
+  "raceDate": "2026-11-06",
+  "track": "Homestead-Miami",
+  "updatedAt": "2026-11-06T22:03:06.919Z",
+  "sourceUrl": "https://www.jayski.com/wp-content/uploads/sites/31/2026/11/6/32625_STARTROW.pdf",
+  "qualifyingSourceUrl": "https://www.jayski.com/wp-content/uploads/sites/31/2026/11/6/32625_QUALRES.pdf",
+  "status": "Official NASCAR Statistics starting lineup published November 6 at 3:22 PM Eastern (2:22 PM Central). Qualifying complete; single round, one timed lap. Positions 32–35 are owner-points provisionals; their times and speeds come from the separate time-trial report. No penalty changes are listed in these reports. Subject to subsequent NASCAR updates.",
+  "rows": [
+    {
+      "start": 1,
+      "qualifyingPosition": 1,
+      "car": "77",
+      "driver": "Nick Sanchez",
+      "lapSeconds": 32.756,
+      "speedMph": 164.855
+    },
+    {
+      "start": 2,
+      "qualifyingPosition": 2,
+      "car": "38",
+      "driver": "Chandler Smith",
+      "lapSeconds": 32.842,
+      "speedMph": 164.424
+    },
+    {
+      "start": 3,
+      "qualifyingPosition": 3,
+      "car": "1",
+      "driver": "Corey Heim",
+      "lapSeconds": 32.878,
+      "speedMph": 164.244
+    },
+    {
+      "start": 4,
+      "qualifyingPosition": 4,
+      "car": "34",
+      "driver": "Layne Riggs",
+      "lapSeconds": 32.882,
+      "speedMph": 164.224
+    },
+    {
+      "start": 5,
+      "qualifyingPosition": 5,
+      "car": "11",
+      "driver": "Kaden Honeycutt",
+      "lapSeconds": 32.963,
+      "speedMph": 163.82
+    },
+    {
+      "start": 6,
+      "qualifyingPosition": 6,
+      "car": "52",
+      "driver": "Stewart Friesen",
+      "lapSeconds": 32.991,
+      "speedMph": 163.681
+    },
+    {
+      "start": 7,
+      "qualifyingPosition": 7,
+      "car": "17",
+      "driver": "Giovanni Ruggiero",
+      "lapSeconds": 32.992,
+      "speedMph": 163.676
+    },
+    {
+      "start": 8,
+      "qualifyingPosition": 8,
+      "car": "15",
+      "driver": "Tanner Gray",
+      "lapSeconds": 33.047,
+      "speedMph": 163.404
+    },
+    {
+      "start": 9,
+      "qualifyingPosition": 9,
+      "car": "7",
+      "driver": "Connor Mosack",
+      "lapSeconds": 33.08,
+      "speedMph": 163.241
+    },
+    {
+      "start": 10,
+      "qualifyingPosition": 10,
+      "car": "88",
+      "driver": "Ty Majeski",
+      "lapSeconds": 33.15,
+      "speedMph": 162.896
+    },
+    {
+      "start": 11,
+      "qualifyingPosition": 11,
+      "car": "62",
+      "driver": "Leland Honeyman Jr.",
+      "lapSeconds": 33.164,
+      "speedMph": 162.827
+    },
+    {
+      "start": 12,
+      "qualifyingPosition": 12,
+      "car": "4",
+      "driver": "Connor Hall",
+      "lapSeconds": 33.164,
+      "speedMph": 162.827
+    },
+    {
+      "start": 13,
+      "qualifyingPosition": 13,
+      "car": "9",
+      "driver": "Grant Enfinger",
+      "lapSeconds": 33.178,
+      "speedMph": 162.758
+    },
+    {
+      "start": 14,
+      "qualifyingPosition": 14,
+      "car": "45",
+      "driver": "Landen Lewis",
+      "lapSeconds": 33.2,
+      "speedMph": 162.651
+    },
+    {
+      "start": 15,
+      "qualifyingPosition": 15,
+      "car": "13",
+      "driver": "Cole Butcher",
+      "lapSeconds": 33.221,
+      "speedMph": 162.548
+    },
+    {
+      "start": 16,
+      "qualifyingPosition": 16,
+      "car": "19",
+      "driver": "Daniel Hemric",
+      "lapSeconds": 33.241,
+      "speedMph": 162.45
+    },
+    {
+      "start": 17,
+      "qualifyingPosition": 17,
+      "car": "91",
+      "driver": "Christian Eckes",
+      "lapSeconds": 33.311,
+      "speedMph": 162.109
+    },
+    {
+      "start": 18,
+      "qualifyingPosition": 18,
+      "car": "18",
+      "driver": "Tyler Ankrum",
+      "lapSeconds": 33.39,
+      "speedMph": 161.725
+    },
+    {
+      "start": 19,
+      "qualifyingPosition": 19,
+      "car": "16",
+      "driver": "Justin Haley",
+      "lapSeconds": 33.413,
+      "speedMph": 161.614
+    },
+    {
+      "start": 20,
+      "qualifyingPosition": 20,
+      "car": "99",
+      "driver": "Ben Rhodes",
+      "lapSeconds": 33.432,
+      "speedMph": 161.522
+    },
+    {
+      "start": 21,
+      "qualifyingPosition": 21,
+      "car": "12",
+      "driver": "Brenden Queen",
+      "lapSeconds": 33.536,
+      "speedMph": 161.021
+    },
+    {
+      "start": 22,
+      "qualifyingPosition": 22,
+      "car": "44",
+      "driver": "Andres Perez De Lara",
+      "lapSeconds": 33.55,
+      "speedMph": 160.954
+    },
+    {
+      "start": 23,
+      "qualifyingPosition": 23,
+      "car": "25",
+      "driver": "Parker Kligerman",
+      "lapSeconds": 33.58,
+      "speedMph": 160.81
+    },
+    {
+      "start": 24,
+      "qualifyingPosition": 24,
+      "car": "98",
+      "driver": "Jake Garcia",
+      "lapSeconds": 33.597,
+      "speedMph": 160.729
+    },
+    {
+      "start": 25,
+      "qualifyingPosition": 25,
+      "car": "42",
+      "driver": "Tyler Reif",
+      "lapSeconds": 33.68,
+      "speedMph": 160.333
+    },
+    {
+      "start": 26,
+      "qualifyingPosition": 26,
+      "car": "10",
+      "driver": "Corey LaJoie",
+      "lapSeconds": 33.773,
+      "speedMph": 159.891
+    },
+    {
+      "start": 27,
+      "qualifyingPosition": 27,
+      "car": "2",
+      "driver": "Timmy Hill",
+      "lapSeconds": 33.776,
+      "speedMph": 159.877
+    },
+    {
+      "start": 28,
+      "qualifyingPosition": 28,
+      "car": "66",
+      "driver": "Matt Crafton",
+      "lapSeconds": 33.83,
+      "speedMph": 159.622
+    },
+    {
+      "start": 29,
+      "qualifyingPosition": 29,
+      "car": "81",
+      "driver": "Kris Wright",
+      "lapSeconds": 33.836,
+      "speedMph": 159.593
+    },
+    {
+      "start": 30,
+      "qualifyingPosition": 30,
+      "car": "5",
+      "driver": "Spencer Davis",
+      "lapSeconds": 33.895,
+      "speedMph": 159.316
+    },
+    {
+      "start": 31,
+      "qualifyingPosition": 31,
+      "car": "14",
+      "driver": "Mini Tyrrell",
+      "lapSeconds": 33.954,
+      "speedMph": 159.039
+    },
+    {
+      "start": 32,
+      "qualifyingPosition": 32,
+      "car": "20",
+      "driver": "Mason Massey",
+      "lapSeconds": 33.966,
+      "speedMph": 158.983,
+      "note": "Owner-points provisional; time from official qualifying results."
+    },
+    {
+      "start": 33,
+      "qualifyingPosition": 33,
+      "car": "33",
+      "driver": "Frankie Muniz",
+      "lapSeconds": 34.026,
+      "speedMph": 158.702,
+      "note": "Owner-points provisional; time from official qualifying results."
+    },
+    {
+      "start": 34,
+      "qualifyingPosition": 34,
+      "car": "22",
+      "driver": "Clayton Green",
+      "lapSeconds": 34.192,
+      "speedMph": 157.932,
+      "note": "Owner-points provisional; time from official qualifying results."
+    },
+    {
+      "start": 35,
+      "qualifyingPosition": 35,
+      "car": "76",
+      "driver": "Spencer Boyd",
+      "lapSeconds": 35.248,
+      "speedMph": 153.2,
+      "note": "Owner-points provisional; time from official qualifying results."
+    }
+  ]
+}
