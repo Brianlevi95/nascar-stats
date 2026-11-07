@@ -1,306 +1,330 @@
 {
-  "raceDate": "2026-11-01",
-  "track": "Martinsville",
-  "updatedAt": "2026-10-31T23:26:48.098Z",
-  "sourceUrl": "https://www.jayski.com/wp-content/uploads/sites/31/2026/10/31/12635_STARTROW.pdf",
-  "qualifyingSourceUrl": "https://www.jayski.com/wp-content/uploads/sites/31/2026/10/31/12635_QUALRES.pdf",
-  "status": "Official NASCAR Statistics starting lineup published October 31 at 3:02 PM Eastern (2:02 PM Central). Qualifying complete; single round, best of two laps. Cody Ware recorded no timed lap; his time and speed are unavailable. No penalty changes are listed in the reports. Subject to subsequent NASCAR updates.",
+  "raceDate": "2026-11-08",
+  "track": "Homestead-Miami",
+  "updatedAt": "2026-11-07T22:01:14.292Z",
+  "sourceUrl": "https://www.jayski.com/wp-content/uploads/sites/31/2026/11/7/12636_STARTROW.pdf",
+  "qualifyingSourceUrl": "https://www.jayski.com/wp-content/uploads/sites/31/2026/11/7/12636_QUALRES.pdf",
+  "status": "Official NASCAR Statistics starting lineup issued November 7 at 2:27 p.m. Central, subject to race-day updates. Qualifying is complete, with one round and one timed lap. Brad Keselowski spun during qualifying and is listed 40th with a recorded lap. Justin Haley qualified the No. 77 in place of the suspended Carson Hocevar. The lineup lists no starting-position penalties.",
   "rows": [
     {
       "start": 1,
       "qualifyingPosition": 1,
-      "car": "11",
-      "driver": "Denny Hamlin",
-      "lapSeconds": 19.226,
-      "speedMph": 98.492
+      "car": "19",
+      "driver": "Chase Briscoe",
+      "lapSeconds": 32.396,
+      "speedMph": 166.687
     },
     {
       "start": 2,
       "qualifyingPosition": 2,
-      "car": "54",
-      "driver": "Ty Gibbs",
-      "lapSeconds": 19.275,
-      "speedMph": 98.241
+      "car": "11",
+      "driver": "Denny Hamlin",
+      "lapSeconds": 32.413,
+      "speedMph": 166.6
     },
     {
       "start": 3,
       "qualifyingPosition": 3,
-      "car": "5",
-      "driver": "Kyle Larson",
-      "lapSeconds": 19.3,
-      "speedMph": 98.114
+      "car": "45",
+      "driver": "Tyler Reddick",
+      "lapSeconds": 32.437,
+      "speedMph": 166.477
     },
     {
       "start": 4,
       "qualifyingPosition": 4,
-      "car": "2",
-      "driver": "Austin Cindric",
-      "lapSeconds": 19.325,
-      "speedMph": 97.987
+      "car": "5",
+      "driver": "Kyle Larson",
+      "lapSeconds": 32.463,
+      "speedMph": 166.343
     },
     {
       "start": 5,
       "qualifyingPosition": 5,
-      "car": "22",
-      "driver": "Joey Logano",
-      "lapSeconds": 19.33,
-      "speedMph": 97.962
+      "car": "2",
+      "driver": "Austin Cindric",
+      "lapSeconds": 32.526,
+      "speedMph": 166.021
     },
     {
       "start": 6,
       "qualifyingPosition": 6,
-      "car": "60",
-      "driver": "Ryan Preece",
-      "lapSeconds": 19.343,
-      "speedMph": 97.896
+      "car": "20",
+      "driver": "Christopher Bell",
+      "lapSeconds": 32.556,
+      "speedMph": 165.868
     },
     {
       "start": 7,
       "qualifyingPosition": 7,
-      "car": "48",
-      "driver": "Alex Bowman",
-      "lapSeconds": 19.354,
-      "speedMph": 97.84
+      "car": "9",
+      "driver": "Chase Elliott",
+      "lapSeconds": 32.603,
+      "speedMph": 165.629
     },
     {
       "start": 8,
       "qualifyingPosition": 8,
       "car": "24",
       "driver": "William Byron",
-      "lapSeconds": 19.368,
-      "speedMph": 97.77
+      "lapSeconds": 32.61,
+      "speedMph": 165.593
     },
     {
       "start": 9,
       "qualifyingPosition": 9,
-      "car": "9",
-      "driver": "Chase Elliott",
-      "lapSeconds": 19.379,
-      "speedMph": 97.714
+      "car": "12",
+      "driver": "Ryan Blaney",
+      "lapSeconds": 32.65,
+      "speedMph": 165.391
     },
     {
       "start": 10,
       "qualifyingPosition": 10,
-      "car": "21",
-      "driver": "Josh Berry",
-      "lapSeconds": 19.38,
-      "speedMph": 97.709
+      "car": "7",
+      "driver": "Daniel Suarez",
+      "lapSeconds": 32.667,
+      "speedMph": 165.304
     },
     {
       "start": 11,
       "qualifyingPosition": 11,
-      "car": "19",
-      "driver": "Chase Briscoe",
-      "lapSeconds": 19.382,
-      "speedMph": 97.699
+      "car": "33",
+      "driver": "Austin Hill",
+      "lapSeconds": 32.667,
+      "speedMph": 165.304
     },
     {
       "start": 12,
       "qualifyingPosition": 12,
-      "car": "45",
-      "driver": "Tyler Reddick",
-      "lapSeconds": 19.394,
-      "speedMph": 97.638
+      "car": "71",
+      "driver": "Michael McDowell",
+      "lapSeconds": 32.711,
+      "speedMph": 165.082
     },
     {
       "start": 13,
       "qualifyingPosition": 13,
-      "car": "12",
-      "driver": "Ryan Blaney",
-      "lapSeconds": 19.414,
-      "speedMph": 97.538
+      "car": "48",
+      "driver": "Alex Bowman",
+      "lapSeconds": 32.724,
+      "speedMph": 165.017
     },
     {
       "start": 14,
       "qualifyingPosition": 14,
-      "car": "20",
-      "driver": "Christopher Bell",
-      "lapSeconds": 19.416,
-      "speedMph": 97.528
+      "car": "21",
+      "driver": "Josh Berry",
+      "lapSeconds": 32.746,
+      "speedMph": 164.906
     },
     {
       "start": 15,
       "qualifyingPosition": 15,
-      "car": "23",
-      "driver": "Bubba Wallace",
-      "lapSeconds": 19.433,
-      "speedMph": 97.442
+      "car": "1",
+      "driver": "Ross Chastain",
+      "lapSeconds": 32.758,
+      "speedMph": 164.845
     },
     {
       "start": 16,
       "qualifyingPosition": 16,
-      "car": "1",
-      "driver": "Ross Chastain",
-      "lapSeconds": 19.443,
-      "speedMph": 97.392
+      "car": "67",
+      "driver": "Corey Heim",
+      "lapSeconds": 32.763,
+      "speedMph": 164.82
     },
     {
       "start": 17,
       "qualifyingPosition": 17,
-      "car": "33",
-      "driver": "Austin Hill",
-      "lapSeconds": 19.449,
-      "speedMph": 97.362
+      "car": "17",
+      "driver": "Chris Buescher",
+      "lapSeconds": 32.77,
+      "speedMph": 164.785
     },
     {
       "start": 18,
       "qualifyingPosition": 18,
-      "car": "17",
-      "driver": "Chris Buescher",
-      "lapSeconds": 19.457,
-      "speedMph": 97.322
+      "car": "23",
+      "driver": "Bubba Wallace",
+      "lapSeconds": 32.771,
+      "speedMph": 164.78
     },
     {
       "start": 19,
       "qualifyingPosition": 19,
-      "car": "88",
-      "driver": "Connor Zilisch",
-      "lapSeconds": 19.49,
-      "speedMph": 97.158
+      "car": "22",
+      "driver": "Joey Logano",
+      "lapSeconds": 32.773,
+      "speedMph": 164.77
     },
     {
       "start": 20,
       "qualifyingPosition": 20,
-      "car": "3",
-      "driver": "Austin Dillon",
-      "lapSeconds": 19.495,
-      "speedMph": 97.133
+      "car": "54",
+      "driver": "Ty Gibbs",
+      "lapSeconds": 32.786,
+      "speedMph": 164.704
     },
     {
       "start": 21,
       "qualifyingPosition": 21,
-      "car": "41",
-      "driver": "Cole Custer",
-      "lapSeconds": 19.506,
-      "speedMph": 97.078
+      "car": "3",
+      "driver": "Austin Dillon",
+      "lapSeconds": 32.806,
+      "speedMph": 164.604
     },
     {
       "start": 22,
       "qualifyingPosition": 22,
-      "car": "34",
-      "driver": "Todd Gilliland",
-      "lapSeconds": 19.508,
-      "speedMph": 97.068
+      "car": "47",
+      "driver": "Ricky Stenhouse Jr",
+      "lapSeconds": 32.816,
+      "speedMph": 164.554
     },
     {
       "start": 23,
       "qualifyingPosition": 23,
-      "car": "6",
-      "driver": "Brad Keselowski",
-      "lapSeconds": 19.523,
-      "speedMph": 96.993
+      "car": "88",
+      "driver": "Connor Zilisch",
+      "lapSeconds": 32.821,
+      "speedMph": 164.529
     },
     {
       "start": 24,
       "qualifyingPosition": 24,
-      "car": "7",
-      "driver": "Daniel Suarez",
-      "lapSeconds": 19.537,
-      "speedMph": 96.924
+      "car": "43",
+      "driver": "Erik Jones",
+      "lapSeconds": 32.84,
+      "speedMph": 164.434
     },
     {
       "start": 25,
       "qualifyingPosition": 25,
-      "car": "77",
-      "driver": "Carson Hocevar",
-      "lapSeconds": 19.54,
-      "speedMph": 96.909
+      "car": "34",
+      "driver": "Todd Gilliland",
+      "lapSeconds": 32.863,
+      "speedMph": 164.319
     },
     {
       "start": 26,
       "qualifyingPosition": 26,
-      "car": "71",
-      "driver": "Michael McDowell",
-      "lapSeconds": 19.552,
-      "speedMph": 96.849
+      "car": "77",
+      "driver": "Justin Haley",
+      "lapSeconds": 32.877,
+      "speedMph": 164.249
     },
     {
       "start": 27,
       "qualifyingPosition": 27,
-      "car": "35",
-      "driver": "Riley Herbst",
-      "lapSeconds": 19.555,
-      "speedMph": 96.835
+      "car": "38",
+      "driver": "Zane Smith",
+      "lapSeconds": 32.877,
+      "speedMph": 164.249
     },
     {
       "start": 28,
       "qualifyingPosition": 28,
-      "car": "10",
-      "driver": "Ty Dillon",
-      "lapSeconds": 19.559,
-      "speedMph": 96.815
+      "car": "41",
+      "driver": "Cole Custer",
+      "lapSeconds": 32.887,
+      "speedMph": 164.199
     },
     {
       "start": 29,
       "qualifyingPosition": 29,
-      "car": "97",
-      "driver": "Shane Van Gisbergen",
-      "lapSeconds": 19.584,
-      "speedMph": 96.691
+      "car": "16",
+      "driver": "AJ Allmendinger",
+      "lapSeconds": 32.904,
+      "speedMph": 164.114
     },
     {
       "start": 30,
       "qualifyingPosition": 30,
-      "car": "43",
-      "driver": "Erik Jones",
-      "lapSeconds": 19.588,
-      "speedMph": 96.671
+      "car": "35",
+      "driver": "Riley Herbst",
+      "lapSeconds": 32.979,
+      "speedMph": 163.741
     },
     {
       "start": 31,
       "qualifyingPosition": 31,
-      "car": "4",
-      "driver": "Noah Gragson",
-      "lapSeconds": 19.62,
-      "speedMph": 96.514
+      "car": "10",
+      "driver": "Ty Dillon",
+      "lapSeconds": 33.086,
+      "speedMph": 163.211
     },
     {
       "start": 32,
       "qualifyingPosition": 32,
-      "car": "16",
-      "driver": "AJ Allmendinger",
-      "lapSeconds": 19.624,
-      "speedMph": 96.494
+      "car": "60",
+      "driver": "Ryan Preece",
+      "lapSeconds": 33.087,
+      "speedMph": 163.206
     },
     {
       "start": 33,
       "qualifyingPosition": 33,
-      "car": "38",
-      "driver": "Zane Smith",
-      "lapSeconds": 19.643,
-      "speedMph": 96.401
+      "car": "4",
+      "driver": "Noah Gragson",
+      "lapSeconds": 33.09,
+      "speedMph": 163.191
     },
     {
       "start": 34,
       "qualifyingPosition": 34,
-      "car": "47",
-      "driver": "Ricky Stenhouse Jr.",
-      "lapSeconds": 19.703,
-      "speedMph": 96.107
+      "car": "97",
+      "driver": "Shane Van Gisbergen",
+      "lapSeconds": 33.097,
+      "speedMph": 163.157
     },
     {
       "start": 35,
       "qualifyingPosition": 35,
-      "car": "42",
-      "driver": "John Hunter Nemechek",
-      "lapSeconds": 19.726,
-      "speedMph": 95.995
+      "car": "51",
+      "driver": "Cody Ware",
+      "lapSeconds": 33.198,
+      "speedMph": 162.66
     },
     {
       "start": 36,
       "qualifyingPosition": 36,
-      "car": "66",
-      "driver": "Josh Bilicki",
-      "lapSeconds": 20.004,
-      "speedMph": 94.661
+      "car": "42",
+      "driver": "John Hunter Nemechek",
+      "lapSeconds": 33.199,
+      "speedMph": 162.656
     },
     {
       "start": 37,
       "qualifyingPosition": 37,
-      "car": "51",
-      "driver": "Cody Ware",
-      "lapSeconds": null,
-      "speedMph": null
+      "car": "62",
+      "driver": "Casey Mears",
+      "lapSeconds": 33.422,
+      "speedMph": 161.57
+    },
+    {
+      "start": 38,
+      "qualifyingPosition": 38,
+      "car": "44",
+      "driver": "JJ Yeley",
+      "lapSeconds": 33.674,
+      "speedMph": 160.361
+    },
+    {
+      "start": 39,
+      "qualifyingPosition": 39,
+      "car": "66",
+      "driver": "Chad Finchum",
+      "lapSeconds": 34.382,
+      "speedMph": 157.059
+    },
+    {
+      "start": 40,
+      "qualifyingPosition": 40,
+      "car": "6",
+      "driver": "Brad Keselowski",
+      "lapSeconds": 35.589,
+      "speedMph": 151.732
     }
   ]
 }
