@@ -1,7 +1,7 @@
 {
-  "season": 2026,
-  "checkedAt": "2026-10-06",
-  "source": "https://www.nascar.com/nascar-cup-series/2026/schedule/",
+  "season": 2027,
+  "checkedAt": "2026-11-08",
+  "source": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/",
   "races": [
     {
       "date": "2026-02-15",
@@ -218,6 +218,222 @@
       "track": "Homestead-Miami",
       "time": "3:00 PM ET",
       "tv": "NBC"
+    },
+    {
+      "date": "2027-02-21",
+      "track": "Daytona",
+      "time": "",
+      "tv": "FOX Sports"
+    },
+    {
+      "date": "2027-02-28",
+      "track": "Atlanta (EchoPark)",
+      "time": "",
+      "tv": "FOX Sports"
+    },
+    {
+      "date": "2027-03-07",
+      "track": "COTA",
+      "time": "",
+      "tv": "FOX Sports"
+    },
+    {
+      "date": "2027-03-14",
+      "track": "Phoenix",
+      "time": "",
+      "tv": "FOX Sports"
+    },
+    {
+      "date": "2027-03-21",
+      "track": "Las Vegas",
+      "time": "",
+      "tv": "FOX Sports"
+    },
+    {
+      "date": "2027-04-04",
+      "track": "Darlington",
+      "time": "",
+      "tv": "FOX Sports"
+    },
+    {
+      "date": "2027-04-11",
+      "track": "Bristol",
+      "time": "",
+      "tv": "FOX Sports"
+    },
+    {
+      "date": "2027-04-18",
+      "track": "Martinsville",
+      "time": "",
+      "tv": "FOX Sports"
+    },
+    {
+      "date": "2027-04-25",
+      "track": "Talladega",
+      "time": "",
+      "tv": "FOX Sports"
+    },
+    {
+      "date": "2027-05-02",
+      "track": "Texas",
+      "time": "",
+      "tv": "FOX Sports"
+    },
+    {
+      "date": "2027-05-09",
+      "track": "Kansas",
+      "time": "",
+      "tv": "FOX Sports"
+    },
+    {
+      "date": "2027-05-16",
+      "track": "Dover",
+      "time": "",
+      "tv": "FOX Sports"
+    },
+    {
+      "date": "2027-05-30",
+      "track": "Charlotte",
+      "time": "",
+      "tv": "Prime Video"
+    },
+    {
+      "date": "2027-06-06",
+      "track": "Nashville",
+      "time": "",
+      "tv": "Prime Video"
+    },
+    {
+      "date": "2027-06-13",
+      "track": "Pocono",
+      "time": "",
+      "tv": "Prime Video"
+    },
+    {
+      "date": "2027-06-20",
+      "track": "Michigan",
+      "time": "",
+      "tv": "Prime Video"
+    },
+    {
+      "date": "2027-06-27",
+      "track": "Chicagoland",
+      "time": "",
+      "tv": "Prime Video"
+    },
+    {
+      "date": "2027-07-04",
+      "track": "Iowa",
+      "time": "",
+      "tv": "TNT Sports"
+    },
+    {
+      "date": "2027-07-11",
+      "track": "Sonoma",
+      "time": "",
+      "tv": "TNT Sports"
+    },
+    {
+      "date": "2027-07-18",
+      "track": "Atlanta (EchoPark)",
+      "time": "",
+      "tv": "TNT Sports"
+    },
+    {
+      "date": "2027-07-25",
+      "track": "Indianapolis",
+      "time": "",
+      "tv": "TNT Sports"
+    },
+    {
+      "date": "2027-08-01",
+      "track": "San Diego",
+      "time": "",
+      "tv": "TNT Sports"
+    },
+    {
+      "date": "2027-08-14",
+      "track": "Bristol",
+      "time": "",
+      "tv": "USA Sports"
+    },
+    {
+      "date": "2027-08-22",
+      "track": "Gateway (WWT)",
+      "time": "",
+      "tv": "USA Sports"
+    },
+    {
+      "date": "2027-08-28",
+      "track": "Daytona",
+      "time": "",
+      "tv": "USA Sports"
+    },
+    {
+      "date": "2027-09-05",
+      "track": "Darlington",
+      "time": "",
+      "tv": "USA Sports"
+    },
+    {
+      "date": "2027-09-11",
+      "track": "Richmond",
+      "time": "",
+      "tv": "USA Sports"
+    },
+    {
+      "date": "2027-09-19",
+      "track": "Watkins Glen",
+      "time": "",
+      "tv": "USA Sports"
+    },
+    {
+      "date": "2027-09-26",
+      "track": "New Hampshire",
+      "time": "",
+      "tv": "USA Sports"
+    },
+    {
+      "date": "2027-10-03",
+      "track": "Kansas",
+      "time": "",
+      "tv": "USA Sports"
+    },
+    {
+      "date": "2027-10-10",
+      "track": "Las Vegas",
+      "time": "",
+      "tv": "USA Sports"
+    },
+    {
+      "date": "2027-10-17",
+      "track": "Charlotte",
+      "time": "",
+      "tv": "USA Sports"
+    },
+    {
+      "date": "2027-10-24",
+      "track": "Phoenix",
+      "time": "",
+      "tv": "USA Sports"
+    },
+    {
+      "date": "2027-10-31",
+      "track": "Talladega",
+      "time": "",
+      "tv": "USA Sports"
+    },
+    {
+      "date": "2027-11-07",
+      "track": "Martinsville",
+      "time": "",
+      "tv": "USA Sports"
+    },
+    {
+      "date": "2027-11-14",
+      "track": "Homestead-Miami",
+      "time": "",
+      "tv": "USA Sports"
     }
   ]
 }

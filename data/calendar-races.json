@@ -1,8 +1,8 @@
 {
-  "season": 2026,
-  "checkedAt": "2026-10-06",
-  "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf",
-  "note": "Scheduled start times; subject to change. Includes Cup exhibition events. Off weeks omitted.",
+  "season": 2027,
+  "checkedAt": "2026-11-08",
+  "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/",
+  "note": "Includes the 2026 archive and announced 2027 dates. Unannounced start times are pending. Broadcast partners may be confirmed before specific networks.",
   "races": [
     {
       "id": "cup-2026-02-01",
@@ -779,8 +779,911 @@
       "startAt": "2026-11-08T20:00:00.000Z",
       "tv": "NBC",
       "sourceUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2026/02/10/2026-National-Series-Schedules-Times.pdf"
+    },
+    {
+      "id": "cup-2027-02-13",
+      "series": "cup",
+      "date": "2027-02-13",
+      "track": "Daytona",
+      "event": "Wheatley Vodka Clash",
+      "exhibition": true,
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-02-18",
+      "series": "cup",
+      "date": "2027-02-18",
+      "track": "Daytona",
+      "event": "Duel at Daytona",
+      "exhibition": true,
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-02-19",
+      "series": "trucks",
+      "date": "2027-02-19",
+      "track": "Daytona",
+      "event": "Fresh From Florida 250",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-02-20",
+      "series": "oreilly",
+      "date": "2027-02-20",
+      "track": "Daytona",
+      "event": "United Rentals 300",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-02-21",
+      "series": "cup",
+      "date": "2027-02-21",
+      "track": "Daytona",
+      "event": "Daytona 500",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-02-27",
+      "series": "oreilly",
+      "date": "2027-02-27",
+      "track": "EchoPark (Atlanta)",
+      "event": "Bennett Transportation and Logistics 250",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-02-27",
+      "series": "trucks",
+      "date": "2027-02-27",
+      "track": "EchoPark (Atlanta)",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-02-28",
+      "series": "cup",
+      "date": "2027-02-28",
+      "track": "Atlanta (EchoPark)",
+      "event": "Autotrader 400",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-03-06",
+      "series": "oreilly",
+      "date": "2027-03-06",
+      "track": "COTA (Austin)",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-03-06",
+      "series": "trucks",
+      "date": "2027-03-06",
+      "track": "St. Petersburg",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-03-07",
+      "series": "cup",
+      "date": "2027-03-07",
+      "track": "COTA",
+      "event": "DuraMAX Texas Grand Prix",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-03-13",
+      "series": "oreilly",
+      "date": "2027-03-13",
+      "track": "Phoenix",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-03-14",
+      "series": "cup",
+      "date": "2027-03-14",
+      "track": "Phoenix",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-03-20",
+      "series": "oreilly",
+      "date": "2027-03-20",
+      "track": "Las Vegas",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-03-21",
+      "series": "cup",
+      "date": "2027-03-21",
+      "track": "Las Vegas",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-04-02",
+      "series": "trucks",
+      "date": "2027-04-02",
+      "track": "Darlington",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-04-03",
+      "series": "oreilly",
+      "date": "2027-04-03",
+      "track": "Darlington",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-04-04",
+      "series": "cup",
+      "date": "2027-04-04",
+      "track": "Darlington",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-04-09",
+      "series": "trucks",
+      "date": "2027-04-09",
+      "track": "Bristol",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-04-10",
+      "series": "oreilly",
+      "date": "2027-04-10",
+      "track": "Bristol",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-04-11",
+      "series": "cup",
+      "date": "2027-04-11",
+      "track": "Bristol",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-04-17",
+      "series": "oreilly",
+      "date": "2027-04-17",
+      "track": "Martinsville",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-04-18",
+      "series": "cup",
+      "date": "2027-04-18",
+      "track": "Martinsville",
+      "event": "Cook Out 400",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-04-24",
+      "series": "oreilly",
+      "date": "2027-04-24",
+      "track": "Talladega",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-04-25",
+      "series": "cup",
+      "date": "2027-04-25",
+      "track": "Talladega",
+      "event": "Jack Link's 500",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-04-30",
+      "series": "trucks",
+      "date": "2027-04-30",
+      "track": "Texas",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-05-01",
+      "series": "oreilly",
+      "date": "2027-05-01",
+      "track": "Texas",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-05-02",
+      "series": "cup",
+      "date": "2027-05-02",
+      "track": "Texas",
+      "event": "Würth 400 presented by Liqui Moly",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-05-08",
+      "series": "trucks",
+      "date": "2027-05-08",
+      "track": "Kansas",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-05-09",
+      "series": "cup",
+      "date": "2027-05-09",
+      "track": "Kansas",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-05-15",
+      "series": "oreilly",
+      "date": "2027-05-15",
+      "track": "Dover",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-05-16",
+      "series": "cup",
+      "date": "2027-05-16",
+      "track": "Dover",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-05-21",
+      "series": "trucks",
+      "date": "2027-05-21",
+      "track": "North Wilkesboro",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-05-22",
+      "series": "oreilly",
+      "date": "2027-05-22",
+      "track": "North Wilkesboro",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-05-23",
+      "series": "cup",
+      "date": "2027-05-23",
+      "track": "North Wilkesboro",
+      "event": "All-Star Race",
+      "exhibition": true,
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-05-28",
+      "series": "trucks",
+      "date": "2027-05-28",
+      "track": "Charlotte",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-05-29",
+      "series": "oreilly",
+      "date": "2027-05-29",
+      "track": "Charlotte",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-05-30",
+      "series": "cup",
+      "date": "2027-05-30",
+      "track": "Charlotte",
+      "event": "Coca-Cola 600",
+      "startAt": null,
+      "tv": "Prime Video",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-06-04",
+      "series": "trucks",
+      "date": "2027-06-04",
+      "track": "Nashville",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-06-05",
+      "series": "oreilly",
+      "date": "2027-06-05",
+      "track": "Nashville",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-06-06",
+      "series": "cup",
+      "date": "2027-06-06",
+      "track": "Nashville",
+      "startAt": null,
+      "tv": "Prime Video",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-06-11",
+      "series": "trucks",
+      "date": "2027-06-11",
+      "track": "Pocono",
+      "event": "MillerTech Battery 200",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-06-12",
+      "series": "oreilly",
+      "date": "2027-06-12",
+      "track": "Pocono",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-06-13",
+      "series": "cup",
+      "date": "2027-06-13",
+      "track": "Pocono",
+      "event": "Great American Getaway 400 presented by VISIT PA",
+      "startAt": null,
+      "tv": "Prime Video",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-06-19",
+      "series": "trucks",
+      "date": "2027-06-19",
+      "track": "Michigan",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-06-20",
+      "series": "cup",
+      "date": "2027-06-20",
+      "track": "Michigan",
+      "startAt": null,
+      "tv": "Prime Video",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-06-26",
+      "series": "oreilly",
+      "date": "2027-06-26",
+      "track": "Chicagoland",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-06-27",
+      "series": "cup",
+      "date": "2027-06-27",
+      "track": "Chicagoland",
+      "startAt": null,
+      "tv": "Prime Video",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-07-03",
+      "series": "oreilly",
+      "date": "2027-07-03",
+      "track": "Iowa",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-07-04",
+      "series": "cup",
+      "date": "2027-07-04",
+      "track": "Iowa",
+      "startAt": null,
+      "tv": "TNT Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-07-10",
+      "series": "oreilly",
+      "date": "2027-07-10",
+      "track": "Sonoma",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-07-10",
+      "series": "trucks",
+      "date": "2027-07-10",
+      "track": "Lime Rock Park",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-07-11",
+      "series": "cup",
+      "date": "2027-07-11",
+      "track": "Sonoma",
+      "event": "Toyota/Save Mart 350",
+      "startAt": null,
+      "tv": "TNT Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-07-17",
+      "series": "trucks",
+      "date": "2027-07-17",
+      "track": "EchoPark (Atlanta)",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-07-18",
+      "series": "cup",
+      "date": "2027-07-18",
+      "track": "Atlanta (EchoPark)",
+      "event": "Dollar Tree 400",
+      "startAt": null,
+      "tv": "TNT Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-07-23",
+      "series": "trucks",
+      "date": "2027-07-23",
+      "track": "Lucas Oil",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-07-24",
+      "series": "oreilly",
+      "date": "2027-07-24",
+      "track": "Indianapolis",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-07-25",
+      "series": "cup",
+      "date": "2027-07-25",
+      "track": "Indianapolis",
+      "event": "Brickyard 400",
+      "startAt": null,
+      "tv": "TNT Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-07-31",
+      "series": "oreilly",
+      "date": "2027-07-31",
+      "track": "San Diego",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-08-01",
+      "series": "cup",
+      "date": "2027-08-01",
+      "track": "San Diego",
+      "startAt": null,
+      "tv": "TNT Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-08-12",
+      "series": "trucks",
+      "date": "2027-08-12",
+      "track": "Bristol",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-08-13",
+      "series": "oreilly",
+      "date": "2027-08-13",
+      "track": "Bristol",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-08-14",
+      "series": "cup",
+      "date": "2027-08-14",
+      "track": "Bristol",
+      "event": "Bass Pro Shops Night Race",
+      "startAt": null,
+      "tv": "USA Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-08-20",
+      "series": "trucks",
+      "date": "2027-08-20",
+      "track": "Bowman Gray Stadium",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-08-21",
+      "series": "oreilly",
+      "date": "2027-08-21",
+      "track": "WWTR (St. Louis)",
+      "event": "Nu Way 225",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-08-22",
+      "series": "cup",
+      "date": "2027-08-22",
+      "track": "Gateway (WWT)",
+      "event": "Enjoy Illinois 300",
+      "startAt": null,
+      "tv": "USA Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-08-27",
+      "series": "oreilly",
+      "date": "2027-08-27",
+      "track": "Daytona",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-08-28",
+      "series": "cup",
+      "date": "2027-08-28",
+      "track": "Daytona",
+      "event": "Coke Zero Sugar 400",
+      "startAt": null,
+      "tv": "USA Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-09-04",
+      "series": "oreilly",
+      "date": "2027-09-04",
+      "track": "Darlington",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-09-05",
+      "series": "cup",
+      "date": "2027-09-05",
+      "track": "Darlington",
+      "event": "Southern 500",
+      "startAt": null,
+      "tv": "USA Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-09-05",
+      "series": "trucks",
+      "date": "2027-09-05",
+      "track": "Canadian Tire Motorsport Park",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-09-10",
+      "series": "oreilly",
+      "date": "2027-09-10",
+      "track": "Richmond",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-09-11",
+      "series": "cup",
+      "date": "2027-09-11",
+      "track": "Richmond",
+      "startAt": null,
+      "tv": "USA Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-09-18",
+      "series": "oreilly",
+      "date": "2027-09-18",
+      "track": "Watkins Glen",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-09-19",
+      "series": "cup",
+      "date": "2027-09-19",
+      "track": "Watkins Glen",
+      "startAt": null,
+      "tv": "USA Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-09-25",
+      "series": "trucks",
+      "date": "2027-09-25",
+      "track": "New Hampshire",
+      "event": "EJP 175",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-09-26",
+      "series": "cup",
+      "date": "2027-09-26",
+      "track": "New Hampshire",
+      "startAt": null,
+      "tv": "USA Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-10-01",
+      "series": "trucks",
+      "date": "2027-10-01",
+      "track": "Kansas",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-10-02",
+      "series": "oreilly",
+      "date": "2027-10-02",
+      "track": "Kansas",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-10-03",
+      "series": "cup",
+      "date": "2027-10-03",
+      "track": "Kansas",
+      "startAt": null,
+      "tv": "USA Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-10-09",
+      "series": "oreilly",
+      "date": "2027-10-09",
+      "track": "Las Vegas",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-10-10",
+      "series": "cup",
+      "date": "2027-10-10",
+      "track": "Las Vegas",
+      "startAt": null,
+      "tv": "USA Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-10-15",
+      "series": "trucks",
+      "date": "2027-10-15",
+      "track": "Charlotte",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-10-16",
+      "series": "oreilly",
+      "date": "2027-10-16",
+      "track": "Charlotte",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-10-17",
+      "series": "cup",
+      "date": "2027-10-17",
+      "track": "Charlotte",
+      "startAt": null,
+      "tv": "USA Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-10-22",
+      "series": "trucks",
+      "date": "2027-10-22",
+      "track": "Phoenix",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-10-23",
+      "series": "oreilly",
+      "date": "2027-10-23",
+      "track": "Phoenix",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-10-24",
+      "series": "cup",
+      "date": "2027-10-24",
+      "track": "Phoenix",
+      "event": "Freeway Insurance 500",
+      "startAt": null,
+      "tv": "USA Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-10-29",
+      "series": "trucks",
+      "date": "2027-10-29",
+      "track": "Talladega",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-10-30",
+      "series": "oreilly",
+      "date": "2027-10-30",
+      "track": "Talladega",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-10-31",
+      "series": "cup",
+      "date": "2027-10-31",
+      "track": "Talladega",
+      "event": "YellaWood 500",
+      "startAt": null,
+      "tv": "USA Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-11-05",
+      "series": "trucks",
+      "date": "2027-11-05",
+      "track": "Martinsville",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-11-06",
+      "series": "oreilly",
+      "date": "2027-11-06",
+      "track": "Martinsville",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-11-07",
+      "series": "cup",
+      "date": "2027-11-07",
+      "track": "Martinsville",
+      "event": "Xfinity 500",
+      "startAt": null,
+      "tv": "USA Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "trucks-2027-11-12",
+      "series": "trucks",
+      "date": "2027-11-12",
+      "track": "Homestead-Miami",
+      "startAt": null,
+      "tv": "FOX Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "oreilly-2027-11-13",
+      "series": "oreilly",
+      "date": "2027-11-13",
+      "track": "Homestead-Miami",
+      "startAt": null,
+      "tv": "The CW",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
+    },
+    {
+      "id": "cup-2027-11-14",
+      "series": "cup",
+      "date": "2027-11-14",
+      "track": "Homestead-Miami",
+      "startAt": null,
+      "tv": "USA Sports",
+      "sourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
     }
   ],
-  "upcomingCheckedAt": "2026-10-20",
-  "upcomingSourceUrl": "https://www.nascar.com/weekend-schedule/weekend-schedule-for-2026-talladega-superspeedway-chase-race/"
+  "upcomingCheckedAt": "2026-11-08",
+  "upcomingSourceUrl": "https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confirmed-dates-tracks-for-all-three-national-series/"
 }

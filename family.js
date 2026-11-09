@@ -1,9 +1,9 @@
-import {mountDad} from './dad-series.js?v=20261028';
+import {mountDad} from './dad-series.js?v=20261108';
 import {esc,safeLink,json,table,today,centralTime,centralStamp} from './family-utils.js?v=20261006ct';
 import {dadHTML,loadLineup} from './dad.js?v=20261006photo';
 import {mountWeather,cancelWeather} from './weather.js?v=20261006radar';
 import {mountFootball} from './football.js?v=20261012a';
-import {mountSchedule} from './race-schedule.js?v=20261020';
+import {mountSchedule} from './race-schedule.js?v=20261108';
 import {mountProjects} from './home-projects.js?v=20261029';
 import {mountRaceLab} from './race-lab.js?v=20261031a';
 const $=id=>document.getElementById(id);
